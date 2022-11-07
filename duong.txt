@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 xin chào tôi tên là nguyễn hải dương
 nguyên quán hải dương
+=======
+>>>>>>> parent of a4695bc (add connent)
